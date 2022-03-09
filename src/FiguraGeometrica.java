@@ -1,11 +1,6 @@
-import java.util.ArrayList;
-import java.util.List;
-
-public abstract class exercici6FiguraGeometrica {
+public abstract class FiguraGeometrica {
     private String color;
-
-
-    public  exercici6FiguraGeometrica(String color){
+    public FiguraGeometrica(String color){
         this.color = color;
     }
 
